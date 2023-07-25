@@ -58,8 +58,9 @@
 					$section = $(id);
 				if(id=="index.html")
 				{
-					console.log("what?");
-					$section.addClass('active');
+					$this.addClass('active');
+					console.log($this);
+					console.log($section);
 				}
 				else
 				{
