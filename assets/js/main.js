@@ -30,7 +30,7 @@
 		var $nav_a = $nav.find('a');
 
 		$nav_a
-			.addClass('scrolly')
+			/*.addClass('scrolly')
 			.on('click', function(e) {
 
 				var $this = $(this);
@@ -50,14 +50,24 @@
 						.addClass('active')
 						.addClass('active-locked');
 
-			})
+			})*/
 			.each(function() {
 
 				var	$this = $(this),
 					id = $this.attr('href'),
 					$section = $(id);
+				if($section=="introduction-link")
+				{
+					$section.removeClass('inactive');
+					$section.addClass('active');
+				}
+				else
+				{
+					$section.removeClass('active');
+					$section.addClass('inactive');
+				}
 
-				// No section for this link? Bail.
+				/*// No section for this link? Bail.
 					if ($section.length < 1)
 						return;
 
@@ -92,7 +102,7 @@
 						}
 					});
 
-			});
+			});*/
 
 	// Scrolly.
 		$('.scrolly').scrolly();
