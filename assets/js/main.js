@@ -56,6 +56,7 @@
 				var	$this = $(this),
 					id = $this.attr('href'),
 					$section = $(id);
+				console.log($section);
 				if($section=="introduction-link")
 				{
 					$section.removeClass('inactive');
