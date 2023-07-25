@@ -56,16 +56,8 @@
 				var	$this = $(this),
 					id = $this.attr('href'),
 					$section = $(id);
-				if(id=="index.html")
-				{
-					$this.addClass('active');
-					console.log($this);
-					console.log($section);
-				}
-				else
-				{
-					$section.addClass('inactive');
-				}
+				if(id=="index.html") $this.addClass('active');
+				else $section.addClass('inactive');
 
 				/*// No section for this link? Bail.
 					if ($section.length < 1)
