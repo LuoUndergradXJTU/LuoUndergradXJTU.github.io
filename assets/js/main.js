@@ -56,7 +56,12 @@
 				var	$this = $(this),
 					id = $this.attr('href'),
 					$section = $(id);
-				if($this.attr('href')=="index.html")
+				console.log("index.html");
+				console.log($this.attr('href'));
+				console.log($this.attr('href')=="index.html");
+				console.log(id);
+				console.log(id=="index.html");
+				if(id=="index.html")
 				{
 					$section.removeClass('inactive');
 					$section.addClass('active');
