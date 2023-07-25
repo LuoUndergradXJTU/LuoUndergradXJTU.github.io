@@ -102,7 +102,7 @@
 						}
 					});
 
-			});*/
+			*/});
 
 	// Scrolly.
 		$('.scrolly').scrolly();
