@@ -56,9 +56,7 @@
 				var	$this = $(this),
 					id = $this.attr('href'),
 					$section = $(id);
-				console.log($this);
-				console.log($this.attr('href'));
-				if($this.attr('href')=="introduction-link")
+				if($this.attr('href')=="index.html")
 				{
 					$section.removeClass('inactive');
 					$section.addClass('active');
@@ -107,7 +105,7 @@
 			*/});
 
 	// Scrolly.
-		$('.scrolly').scrolly();
+		//$('.scrolly').scrolly();
 
 	// Header (narrower + mobile).
 
