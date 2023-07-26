@@ -2,7 +2,7 @@ $(document).ready(function() {
     //Dynamically load people
      $.ajax({
         type: "GET",
-        url: "http://localhost:8000/LUD/data/people.csv",
+        url: "data/people.csv",
         dataType: "text",
         success: function(data) {processPeople(data);}
     });

@@ -3,7 +3,7 @@ $(document).ready(function() {
     //Dynamically load recent news
      $.ajax({
         type: "GET",
-        url: "http://localhost:8000/LUD/data/events.csv",
+        url: "data/events.csv",
         dataType: "text",
         success: function(data) {processRecentNews(data);}
     });
@@ -11,7 +11,7 @@ $(document).ready(function() {
     //Dynamically load slideshow
     $.ajax({
         type: "GET",
-        url: "http://localhost:8000/LUD/data/slideshow.csv",
+        url: "data/slideshow.csv",
         dataType: "text",
         success: function(data) {processSlideshow(data);}
     });
