@@ -2231,6 +2231,21 @@ input, select, textarea {
 			text-align: center;
 			background-image: url("images/overlay.png");
 		}
+		#main > section strong {
+			font-weight:600;
+		}
+		#main article p {
+			margin:0 1em;
+			font-size:1em;
+			line-height:1.5em;
+			white-space: nowrap;
+		}
+
+		#main article h3 {
+			font-size:1em;
+			font-weight:400;
+			line-height:1.5em;
+		}
 
 			#main > section.dark {
 				color: #ddd;

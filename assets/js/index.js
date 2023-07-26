@@ -3,7 +3,7 @@ $(document).ready(function() {
     //Dynamically load recent news
      $.ajax({
         type: "GET",
-        url: "data/events.csv",
+        url: "http://localhost:8000/LUD/data/events.csv",
         dataType: "text",
         success: function(data) {processRecentNews(data);}
     });
@@ -11,7 +11,7 @@ $(document).ready(function() {
     //Dynamically load slideshow
     $.ajax({
         type: "GET",
-        url: "data/slideshow.csv",
+        url: "http://localhost:8000/LUD/data/slideshow.csv",
         dataType: "text",
         success: function(data) {processSlideshow(data);}
     });
@@ -34,7 +34,7 @@ function processRecentNews(data) {
 
         if(appended < 4) { //Only show the most recent entries on the home page
             //$('#recent_news').append(entry);
-            entry=entry+'<strong><em>'+news.date+'</em></strong></br>'+news.text+'</br></br>';
+            entry=entry+'<em><strong>'+news.date+'</strong></em></br>'+news.text+'</br></br>';
             appended = appended + 1;
         }
 
