@@ -1,0 +1,39 @@
+date,text,
+7/11/2023,"Congratulations to former director Shangbin Feng and director Yuhan Liu for their <a href=""https://2023.aclweb.org/program/best_papers/"">ACL2023 best paper award</a>, <em><a href=""https://arxiv.org/abs/2305.08283"">From Pretraining Data to LMs to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models</a></em>!",
+6/30/2023,"Our paper, <em><a href=""https://arxiv.org/abs/2306.17408"">LMBot: Distilling Graph Knowledge into Language Model for Graph-less Deployment in Twitter Bot Detection</a></em> goes live on Arxiv.",
+6/22/2023,"Our paper, <em><a href=""https://arxiv.org/abs/2306.12870"">HOFA: Twitter Bot Detection with Homophily-Oriented Augmentation and Frequency Adaptive Attention</a></em> goes live on Arxiv.",
+5/3/2023,"Our paper, <em><a href=""https://arxiv.org/abs/2208.08320"">BIC: Twitter Bot Detection with Text-Graph Interaction and Semantic Consistency</a></em>, has been accepted at ACL 2023.",
+4/5/2023,"Our paper, <em><a href=""https://arxiv.org/abs/2304.06280"">BotMoE: Twitter Bot Detection with Community-Aware Mixtures of Modal-Specific Experts</a></em>, has been accepted at SIGIR 2023.",
+1/26/2023,"Our paper, <em><a href=""https://arxiv.org/abs/2208.07622"">KRACL: Contrastive Learning with Graph Context Modeling for Sparse Knowledge Graph Completion</a></em>, has been accepted at WWW 2023.",
+10/8/2022,"Our paper, <em><a href=""https://arxiv.org/abs/2210.08362"">PAR: Political Actor Representation Learning with Social Context and Expert Knowledge</a></em>, has been accepted at EMNLP 2022.",
+9/29/2022,"Congratulations to team members Qingyue Zhang, Yanbo Wang for their incoming PhD journey!</br>
+Qingyue Zhang is joining Prof. Shao-Lun Huang's lab @ Tsinghua SIGS.</br>
+Yanbo Wang is joining Prof. Muhan Zhang's lab @ PKU.",
+9/18/2022,"Our paper, <em><a href=""https://arxiv.org/abs/2206.04564"">TwiBot-22: Towards Graph-Based Twitter Bot Detection</a></em>, has been accepted at NeurIPS, Dataset and Benchmark Track, 2022.",
+8/18/2022,"Our paper, <em><a href=""https://arxiv.org/abs/2208.08200"">AHEAD: A Triple Attention Based Heterogeneous Graph Anomaly Detection Approach</a></em> goes live on Arxiv.",
+8/18/2022,"Our paper, <em><a href=""https://arxiv.org/abs/2208.08320"">BIC: Twitter Bot Detection with Text-Graph Interaction and Semantic Consistency</a></em> goes live on Arxiv.",
+8/18/2022,"Our paper, <em><a href=""https://arxiv.org/abs/2208.07622"">KRACL: Contrastive Learning with Graph Context Modeling for Sparse Knowledge Graph Completion</a></em> goes live on Arxiv.",
+8/3/2022,"Our paper, <em><a href=""https://arxiv.org/abs/2208.09027"">GraTO: Graph Neural Network Framework Tackling Over-smoothing with Neural Architecture Search</a></em>, has been accepted at CIKM 2022.",
+6/14/2022,"Our paper, <em><a href=""https://twibot22.github.io/"">TwiBot-22: Towards Graph-Based Twitter Bot Detection</a></em> goes live on Arxiv.",
+4/14/2022,"Our paper, <em><a href=""https://arxiv.org/abs/2204.04046"">KCD: Knowledge Walks and Textual Cues Enhanced Political Perspective Detection in News Media</a></em>, has been accepted at NAACL 2022.",
+3/7/2022,Congratulations to director Shangbin Feng for his incoming Ph.D. journey under the supervision of Prof. Yulia Tsvetkov at the University of Washington!,
+1/12/2022,Congratulations to team member Binchi Zhang for his incoming Ph.D. journey under the supervision of Prof. Jundong Li at the University of Virginia!,
+1/3/2022,"<em><a href=""https://arxiv.org/abs/2108.03861"">Knowledge Graph Augmented Political Perspective Detection in News Media</a></em> is significantly updated and available at ",
+1/3/2022,"<em><a href=""https://arxiv.org/abs/2108.03881"">Legislator Representation Learning with Social Context and Expert Knowledge</a></em>, formerly ""Encoding Heterogeneous Social and Political Context for Entity Stance Prediction"", is significantly updated and availble at ",
+12/1/2021,"Our paper, <em><a href=""https://arxiv.org/abs/2109.02927"">Heterogeneity-aware Twitter Bot Detection with Relational Graph Transformers</a></em>, has been accepted at AAAI 2022.",
+10/26/2021,"Our paper, <em><a href=""https://arxiv.org/abs/2110.12906"">PPSGCN: A Privacy-Preserving Subgraph Sampling Based Distributed GCN Training Method</a></em>, goes live on Arxiv.",
+9/27/2021,"Congratulations to team members Herun Wan, Ningnan Wang, Zilong Chen, Qingyao Li, Peisheng Yu for their incoming PhD candidacy!</br>
+Herun Wan is joining Prof. Minnan Luo's lab @ XJTU.</br>
+Ningnan Wang is joining Prof. Hongbin Sun's lab @ XJTU.</br>
+Zilong Chen is joining Prof. Huaping Liu's lab @ THU.</br>
+Qingyao Li is joining Prof. Yong Yu's lab @ SJTU.</br>
+Peisheng Yu is joining Prof. Man-cho-so's lab @ CUHK.",
+9/10/2021,"Our paper, <em><a href=""https://arxiv.org/abs/2106.13092"">BotRGCN: Twitter Bot Detection with Relational Graph Convolutional Networks</a></em>, has been accepted at ASONAM 2021.",
+9/08/2021,"Our paper, <em><a href=""https://arxiv.org/abs/2109.02927"">Heterogeneity-aware Twitter Bot Detection with Relational Graph Transformers</a></em>, goes live on Arxiv.",
+8/10/2021,"Our paper, <em><a href=""https://arxiv.org/abs/2106.13089"">SATAR: A Self-supervised Approach to Twitter Account Representation Learning and its Application in Bot Detection</a></em>, has been accepted at CIKM 2021.",
+8/10/2021,"Our paper, <em><a href=""https://arxiv.org/abs/2106.13088"">TwiBot-20: A Comprehensive Twitter Bot Detection Benchmark</a></em>, has been accepted at CIKM 2021. ",
+8/09/2021,"Our paper, <em><a href=""https://arxiv.org/abs/2108.03861"">Knowledge Graph Augmented Political Perspective Detection in News Media</a></em>, goes live on Arxiv.",
+8/09/2021,"Our paper, <em><a href=""https://arxiv.org/abs/2108.03881"">Encoding Heterogeneous Social and Political Context for Entity Stance Prediction</a></em>, goes live on Arxiv.",
+6/24/2021,"Our paper, <em><a href=""https://arxiv.org/abs/2106.13092"">BotRGCN: Twitter Bot Detection with Relational Graph Convolutional Networks</a></em>, goes live on Arxiv.",
+6/24/2021,"Our paper, <em><a href=""https://arxiv.org/abs/2106.13088"">TwiBot-20: A Comprehensive Twitter Bot Detection Benchmark</a></em>, goes live on Arxiv.",
+6/24/2021,"Our paper, <em><a href=""https://arxiv.org/abs/2106.13089"">SATAR: A Self-supervised Approach to Twitter Account Representation Learning and its Application in Bot Detection</a></em>, goes live on Arxiv.",

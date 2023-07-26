@@ -9,6 +9,8 @@
 	var	$window = $(window),
 		$body = $('body'),
 		$nav = $('#nav');
+		$self = window.location.href.split('/');
+		$self = $self[$self.length-1];
 
 	// Breakpoints.
 		breakpoints({
@@ -56,7 +58,7 @@
 				var	$this = $(this),
 					id = $this.attr('href'),
 					$section = $(id);
-				if(id=="index.html") $this.addClass('active');
+				if(id==$self) $this.addClass('active');
 				else $section.addClass('inactive');
 
 				/*// No section for this link? Bail.
