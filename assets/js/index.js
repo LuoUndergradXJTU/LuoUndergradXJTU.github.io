@@ -11,7 +11,7 @@ $(document).ready(function() {
     //Dynamically load slideshow
     $.ajax({
         type: "GET",
-        url: "data/slideshow.csv",
+        url: "slideshow.csv",
         dataType: "text",
         success: function(data) {processSlideshow(data);}
     });
@@ -21,7 +21,7 @@ function processRecentNews(data) {
     arrData = parseCsv(data);
 
     var appended = 0; //Only append the first four recent events
-    var entry='<p style="text-align:left">'
+    var entry='<p style="text-align:left">';
 
     for (var i=1; i<arrData.length; i++) {
         var data = arrData[i];
