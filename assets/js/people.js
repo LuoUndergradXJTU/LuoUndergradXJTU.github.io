@@ -29,7 +29,7 @@ function processPeople(allText) {
           continue;
         }
 
-        var person = {image:data[0], name:data[1], description:data[2], uniqname:data[3], email_domain:data[4], link:data[5], status:data[6]};
+        var person = {image:data[0], name:data[1], description:data[2], uniqname:data[3], email_domain:data[4], link:data[5], status:data[6],highlight:data[7]};
         if(person.status=="Alumni") {
             alumni.push(person);
         } else if(person.status=="Current") {
@@ -62,6 +62,8 @@ function processPeople(allText) {
         }
 
         $('#current_members_row_' + rowNum).append(entry);
+        if(person.highlight==2) $($('#current_members article')[entriesAdded]).addClass('advisor');
+        if(person.highlight==1) $($('#current_members article')[entriesAdded]).addClass('director');
         articleWidth=$('#current_members p')[entriesAdded*2+1].offsetWidth;
         textWidth=$('#current_members em')[entriesAdded].offsetWidth;
         if(textWidth>articleWidth) $('#current_members em')[entriesAdded].style.fontSize=articleWidth*100/textWidth+'%';
@@ -95,6 +97,7 @@ function processPeople(allText) {
         }
 
         $('#alumni_row_' + rowNum).append(entry);
+        if(person.highlight==1) $($('#alumni article')[entriesAdded]).addClass('director');
         articleWidth=$('#alumni p')[entriesAdded*2+1].offsetWidth;
         textWidth=$('#alumni em')[entriesAdded].offsetWidth;
         if(textWidth>articleWidth) $('#alumni em')[entriesAdded].style.fontSize=articleWidth*100/textWidth+'%';

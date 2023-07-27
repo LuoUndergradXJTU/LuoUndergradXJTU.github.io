@@ -59,7 +59,7 @@
 					id = $this.attr('href'),
 					$section = $(id);
 				if(id==$self) $this.addClass('active');
-				else $section.addClass('inactive');
+				else $this.addClass('inactive');
 
 				/*// No section for this link? Bail.
 					if ($section.length < 1)
