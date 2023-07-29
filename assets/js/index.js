@@ -9,12 +9,12 @@ $(document).ready(function() {
     });
 
     //Dynamically load slideshow
-    $.ajax({
+    /*$.ajax({
         type: "GET",
-        url: "slideshow.csv",
+        url: "data/slideshow.csv",
         dataType: "text",
         success: function(data) {processSlideshow(data);}
-    });
+    });*/
 });
 
 function processRecentNews(data) {
@@ -31,15 +31,18 @@ function processRecentNews(data) {
         }
 
         var news = {date:data[0], text:data[1]};
+        if(appended)
+        {
+            entry=entry+'</br></br>';
+        }
 
         if(appended < 4) { //Only show the most recent entries on the home page
             //$('#recent_news').append(entry);
-            entry=entry+'<em><strong>'+news.date+'</strong></em></br>'+news.text+'</br></br>';
+            entry=entry+'<em><strong>'+news.date+'</strong></em></br>'+news.text;
             appended = appended + 1;
         }
-
         if(appended == 4) {
-                entry=entry+'<strong><em>See more news <a href="news.html">here</a>.</em></strong>';
+                entry=entry+'</br></br><strong><em>See more news <a href="news.html">here</a>.</em></strong>';
                 break;
         }
     }
@@ -47,8 +50,7 @@ function processRecentNews(data) {
     $('#recent_news').append(entry);
 }
 
-function processSlideshow(data) {
-    return;
+/*function processSlideshow(data) {
     arrData = parseCsv(data);
 
     sortedArr = arrData.slice(1).sort(function (a, b) {
@@ -80,4 +82,4 @@ function processSlideshow(data) {
 
     $('.carousel-indicators').append(indicators);
     $('.carousel-inner').append(slideshow);
-}
+}*/

@@ -9,7 +9,7 @@
 	var	$window = $(window),
 		$body = $('body'),
 		$nav = $('#nav');
-		$self = window.location.href.split('/');
+		$self = location.href.split('/');
 		$self = $self[$self.length-1];
 
 	// Breakpoints.

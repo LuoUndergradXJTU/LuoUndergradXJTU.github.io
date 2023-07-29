@@ -46,10 +46,11 @@ function processRecentNews(data) {
     }
     
     for(var j=0; j<dates.length; j++) {
-        $('#main').append('<section class="'+allSections[j%12]+'"><div id="' + allMonths[dates[j].month-1] + dates[j].year+'" class="container"><header><h3>'+ allMonths[dates[j].month-1] +' '+ dates[j].year+'</h3></header></div></section>');
+        $('#main').append('<section class="'+allSections[j%12]+'"><div id="' + allMonths[dates[j].month-1] + dates[j].year+'" class="container news"><header><h3>'+ allMonths[dates[j].month-1] +' '+ dates[j].year+'</h3></header></div></section>');
         for (var k=0,entry='<p style="text-align:left">'; k<dates[j].news.length; k++) {
+            if(k) entry=entry+'</br></br>';
             news = dates[j].news[k];
-            entry=entry+'<em><strong>'+news.date+'</strong></em></br>'+news.text+'</br></br>';
+            entry=entry+'<em><strong>'+news.date+'</strong></em></br>'+news.text;
         }
         $('#'+allMonths[dates[j].month-1] + dates[j].year).append(entry);
     }
