@@ -78,9 +78,9 @@ function processPeople(allText) {
         person = alumni[i];
         if(!person.image) person.image='profile.png'
         if(person.link) {
-            entry = '<div class="col-3"><article class="item"><a href="'+person.link+'" target="_blank" class="image fit"><img src=images/people/'+person.image+' alt="'+person.name+'" /></a>';
+            entry = '<div class="col-3"><article class="item profile"><a href="'+person.link+'" target="_blank" class="image fit"><img src=images/people/'+person.image+' alt="'+person.name+'" /></a>';
         } else {
-            entry = '<div class="col-3"><article class="item"><img src=images/people/'+person.image+' alt="'+person.name+'" />';
+            entry = '<div class="col-3"><article class="item profile"><img src=images/people/'+person.image+' alt="'+person.name+'" />';
         }
         entry=entry+'<header><h3>'+person.name+'</h3><p><em>'+person.description+'</em></p>';
 
