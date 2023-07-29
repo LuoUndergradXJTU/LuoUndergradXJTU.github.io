@@ -1,2 +1,2 @@
-# MCPlayer542.github.io/LUD
-XJTU Luo Lab undergraduate division website (UNDER CONSTRUCTION)
+# LuoUndergradXJTU.github.io
+XJTU Luo Lab undergraduate division website
