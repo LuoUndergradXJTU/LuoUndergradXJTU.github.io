@@ -67,12 +67,12 @@ function processPublications(data) {
         }
     }
 
-    showCategories();
     var currdiv,notfirst;
+    showCategories();
     if(categorySet==1) {
         $('#categories').append('</br><p><a onclick="allPublications()" href="">Go back to all publications</a></p>');
-        $('#main').append('<section class="three"><div id="'+category+'" class="container"><header><h3>'+category+'</h3></header></div></section>')
-        currdiv=$('#'+category);
+        $('#main').append('<section class="three"><div id="category" class="container"><header><h3>'+category+'</h3></header></div></section>')
+        currdiv=$('#category');
         notfirst=0;
     }
 
