@@ -1,4 +1,4 @@
-image,name,description,uniqname,e-mail_domain,link,status
+image,name,description,uniqname,e-mail_domain,link,status,type
 minnan_luo.jpg,Minnan Luo,"Advisor, Professor",minnluo,xjtu.edu.cn,https://gr.xjtu.edu.cn/en/web/minnluo/home,Current,2
 yuhan_liu.jpg,Yuhan Liu,"Director, Senior, Group Leader",lyh6560,stu.xjtu.edu.cn,https://lyh6560new.github.io/,Current,1
 zijian_cai.jpg,Zijian Cai,"Senior, Group Leader",2205114706,stu.xjtu.edu.cn,https://github.com/czjdsg,Current,0
@@ -9,6 +9,10 @@ heng_wang.jpg,Heng Wang,Junior,wh2213210554,stu.xjtu.edu.cn,https://arthur-heng.
 zifeng_zhu.jpg,Zifeng Zhu,Junior,zivenzhu,stu.xjtu.edu.cn,https://github.com/37david,Current,0
 ruijie_he.jpg,Ruijie He,"Web Admin, Junior",MCPlayer542,stu.xjtu.edu.cn,https://github.com/MCPlayer542,Current,0
 yuyang_tian.jpg,Yuyang Tian,Junior,2191414578,stu.xjtu.edu.cn,https://github.com/tian-yuyang,Current,0
+sicheng_yang.jpg,Sicheng Yang,Junior,yscript,stu.xjtu.edu.cn,https://github.com/script-Yang,Current,0
+zinan_zeng.jpg,Zinan Zeng,Junior,2194214554,stu.xjtu.edu.cn,https://github.com/zzqbjt,Current,0
+haokai_zhang.jpg,Haokai Zhang,Sophomore,zhanghaokai,stu.xjtu.edu.cn,https://github.com/Jay-forever123,Current,0
+shengtao_zhang.jpg,Shengtao Zhang,Sophomore,2226113976,stu.xjtu.edu.cn,https://github.com/3205914485/zst,Current,0
 shangbin_feng.jpg,Shangbin Feng,"Founder,  Former Director,  PhD @ UW",wind_binteng,stu.xjtu.edu.cn,https://bunsenfeng.github.io/,Alumni,1
 zhaoxuan_tan.jpg,Zhaoxuan Tan,"Former Director, PhD @ UND",tanzhaoxuan,stu.xjtu.edu.cn,https://tamsiuhin.github.io/,Alumni,1
 chenxu_wang.jpg,Chenxu Wang,PhD @ THU,jimwangcx,qq.com,https://wangcx.site,Alumni,0
