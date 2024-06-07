@@ -1,12 +1,8 @@
 image,name,description,uniqname,e-mail_domain,link,status,type
 minnan_luo.jpg,Minnan Luo,"Advisor, Professor",minnluo,xjtu.edu.cn,https://gr.xjtu.edu.cn/en/web/minnluo/home,Current,2
-yuhan_liu.jpg,Yuhan Liu,"Director, Senior",lyh6560,stu.xjtu.edu.cn,https://lyh6560new.github.io/,Current,1
-zijian_cai.jpg,Zijian Cai,Senior,2205114706,stu.xjtu.edu.cn,https://github.com/czjdsg,Current,0
-sen_ye.png,Sen Ye,Senior,ys2003,stu.xjtu.edu.cn,https://github.com/EasonRussell,Current,0
-shiqi_lou.jpg,Shiqi Lou,Senior,lousqi,stu.xjtu.edu.cn,https://lousq17.github.io/,Current,0
-yichen_wang.jpg,Yichen Wang,"Senior, Group Leader",yichenzw,uchicago.edu,https://yichenzw.com/,Current,0
-yuyang_bai.png,Yuyang Bai,"Junior, Group Leader",1206944633,stu.xjtu.edu.cn,https://leopoldwhite.github.io/,Current,0
-heng_wang.jpg,Heng Wang,"Junior, Group Leader",wh2213210554,stu.xjtu.edu.cn,https://arthur-heng.github.io/,Current,0
+heng_wang.jpg,Heng Wang,"Director, Junior, Group Leader",wh2213210554,stu.xjtu.edu.cn,https://arthur-heng.github.io/,Current,1
+yuyang_bai.png,Yuyang Bai,"Director, Junior, Group Leader",1206944633,stu.xjtu.edu.cn,https://leopoldwhite.github.io/,Current,1
+yichen_wang.jpg,Yichen Wang,"PhD @ UChicago, Group Leader",yichenzw,uchicago.edu,https://yichenzw.com/,Current,0
 zinan_zeng.jpg,Zinan Zeng,"Junior, Group Leader",2194214554,stu.xjtu.edu.cn,https://github.com/zzqbjt,Current,0
 ruijie_he.jpg,Ruijie He,"Web Admin, Junior",MCPlayer542,stu.xjtu.edu.cn,https://github.com/MCPlayer542,Current,0
 zifeng_zhu.jpg,Zifeng Zhu,Junior,zivenzhu,stu.xjtu.edu.cn,https://github.com/37david,Current,0
@@ -20,6 +16,7 @@ junyu_feng.jpg,Junyu Feng,Sophomore,Feng0926,stu.xjtu.edu.cn,https://github.com/
 yilin_wang.png,Yilin Wang,Freshman,13148035071xjtu,stu.xjtu.edu.cn,https://github.com/icarus131480,Current,0
 shangbin_feng.jpg,Shangbin Feng,"Founder,  Former Director,  PhD @ UW",wind_binteng,stu.xjtu.edu.cn,https://bunsenfeng.github.io/,Alumni,1
 zhaoxuan_tan.jpg,Zhaoxuan Tan,"Former Director, PhD @ UND",tanzhaoxuan,stu.xjtu.edu.cn,https://tamsiuhin.github.io/,Alumni,1
+yuhan_liu.jpg,Yuhan Liu,"Former Director, Phd @ UT",lyh6560,stu.xjtu.edu.cn,https://lyh6560new.github.io/,Alumni,1
 chenxu_wang.jpg,Chenxu Wang,PhD @ THU,jimwangcx,qq.com,https://wangcx.site,Alumni,0
 herun_wan.jpg,Herun Wan,PhD @ XJTU,wanherun,stu.xjtu.edu.cn,https://whr000001.github.io/,Alumni,0
 ningnan_wang.jpg,Ningnan Wang,PhD @ XJTU,mrwangyou,stu.xjtu.edu.cn,https://scholar.google.com/citations?view_op=list_works&hl=en&user=MpG_ZDEAAAAJ,Alumni,0
@@ -34,3 +31,6 @@ shujie_yang.jpg,Shujie Yang,MS @ THU,yangshujie,stu.xjtu.edu.cn,https://github.c
 xinshun_feng.jpg,Xinshun Feng,MS @ BUAA,2196113508,stu.xjtu.edu.cn,https://github.com/fxsxjtu,Alumni,0
 hongrui_wang.jpg,Hongrui Wang,MS @ XJTU,wanghongrui,stu.xjtu.edu.cn,https://github.com/ScienceKnight,Alumni,0
 yanbo_wang.jpg,Yanbo Wang,PhD @ PKU,wyb2017,stu.xjtu.edu.cn,https://yanxwb.github.io/,Alumni,0
+zijian_cai.jpg,Zijian Cai,MS @ CASIA,2205114706,stu.xjtu.edu.cn,https://github.com/czjdsg,Alumni,0
+sen_ye.png,Sen Ye,Phd @ PKU,ys2003,stu.xjtu.edu.cn,https://github.com/EasonRussell,Alumni,0
+shiqi_lou.jpg,Shiqi Lou,,shiqilou01,gmail.com,https://lousq17.github.io/,Alumni,0
