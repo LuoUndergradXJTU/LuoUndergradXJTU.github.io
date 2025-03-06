@@ -42,7 +42,7 @@ function processRecentNews(data) {
             appended = appended + 1;
         }
         if(appended == 4) {
-                entry=entry+'</br></br><strong><em>See more news <a href="news.html">here</a>.</em></strong>';
+                entry=entry+'</br></br><strong><em>See more news <a href="events.html">here</a>.</em></strong>';
                 break;
         }
     }
