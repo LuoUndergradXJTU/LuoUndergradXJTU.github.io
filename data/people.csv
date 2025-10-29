@@ -1,17 +1,9 @@
 image,name,description,uniqname,e-mail_domain,link,status,type
 minnan_luo.jpg,Minnan Luo,"Advisor, Professor",minnluo,xjtu.edu.cn,https://gr.xjtu.edu.cn/en/web/minnluo/home,Current,2
-heng_wang.jpg,Heng Wang,"Director, PhD @ UIUC, Group Leader",wh2213210554,stu.xjtu.edu.cn,https://arthur-heng.github.io/,Current,1
-yuyang_bai.png,Yuyang Bai,"Director, PhD @ Texas A&M University, Group Leader",1206944633,stu.xjtu.edu.cn,https://leopoldwhite.github.io/,Current,1
-yichen_wang.jpg,Yichen Wang,"PhD @ UChicago, Group Leader",yichenzw,uchicago.edu,https://yichenzw.com/,Current,0
-zinan_zeng.jpg,Zinan Zeng,"MS @ XJTU, Group Leader",2194214554,stu.xjtu.edu.cn,https://github.com/zzqbjt,Current,0
-ruijie_he.jpg,Ruijie He,"PhD @ THU",MCPlayer542,stu.xjtu.edu.cn,https://github.com/MCPlayer542,Current,0
-zifeng_zhu.jpg,Zifeng Zhu,"PhD @ XJTU",zivenzhu,stu.xjtu.edu.cn,https://github.com/37david,Current,0
-yuyang_tian.jpg,Yuyang Tian,"PhD @ USTC",2191414578,stu.xjtu.edu.cn,https://github.com/tian-yuyang,Current,0
-sicheng_yang.jpg,Sicheng Yang,"MPhil @ HKUST",yscript,stu.xjtu.edu.cn,https://github.com/script-Yang,Current,0
-haokai_zhang.jpg,Haokai Zhang,Senior,zhanghaokai,stu.xjtu.edu.cn,https://github.com/Jay-forever123,Current,0
-shengtao_zhang.jpg,Shengtao Zhang,Senior,2226113976,stu.xjtu.edu.cn,https://github.com/3205914485/zst,Current,0
+shengtao_zhang.jpg,Shengtao Zhang,"Director",2226113976,stu.xjtu.edu.cn,https://github.com/3205914485/zst,Current,1
+xiaofan_zheng.jpg,Xiaofan Zheng,"Director",zxf_xjtu,stu.xjtu.edu.cn,https://github.com/qingpingwan,Current,1
+haokai_zhang.jpg,Haokai Zhang,"Director",zhanghaokai,stu.xjtu.edu.cn,https://github.com/Jay-forever123,Current,1
 xuanlang_dai.jpg,Xuanlang Dai,Senior,daixuanlang,outlook.com,https://github.com/Lenny-Dai,Current,0
-xiaofan_zheng.jpg,Xiaofan Zheng,Senior,zxf_xjtu,stu.xjtu.edu.cn,https://github.com/qingpingwan,Current,0
 junyu_feng.jpg,Junyu Feng,Senior,Feng0926,stu.xjtu.edu.cn,https://github.com/Kir1same96204,Current,0
 yilin_wang.png,Yilin Wang,Junior,13148035071xjtu,stu.xjtu.edu.cn,https://github.com/icarus131480,Current,0
 wenjing_duan.jpg,Wenjing Duan,Junior,dwjduan,stu.xjtu.edu.cn,https://github.com/WenjingDuan,Current,0
@@ -19,6 +11,8 @@ zili_zhang.png,Zili Zhang,Junior,zhangzl666,stu.xjtu.edu.cn,https://github.com/z
 shangbin_feng.jpg,Shangbin Feng,"Founder,  Former Director,  PhD @ UW",wind_binteng,stu.xjtu.edu.cn,https://bunsenfeng.github.io/,Alumni,1
 zhaoxuan_tan.jpg,Zhaoxuan Tan,"Former Director, PhD @ UND",tanzhaoxuan,stu.xjtu.edu.cn,https://tamsiuhin.github.io/,Alumni,1
 yuhan_liu.jpg,Yuhan Liu,"Former Director, PhD @ NYU",lyh6560,stu.xjtu.edu.cn,https://lyh6560new.github.io/,Alumni,1
+heng_wang.jpg,Heng Wang,"Former Director, PhD @ UIUC",wh2213210554,stu.xjtu.edu.cn,https://arthur-heng.github.io/,Alumni,1
+yuyang_bai.png,Yuyang Bai,"Former Director, PhD @ TAMU",1206944633,stu.xjtu.edu.cn,https://leopoldwhite.github.io/,Alumni,1
 chenxu_wang.jpg,Chenxu Wang,PhD @ THU,jimwangcx,qq.com,https://wangcx.site,Alumni,0
 herun_wan.jpg,Herun Wan,PhD @ XJTU,wanherun,stu.xjtu.edu.cn,https://whr000001.github.io/,Alumni,0
 ningnan_wang.jpg,Ningnan Wang,PhD @ XJTU,mrwangyou,stu.xjtu.edu.cn,https://scholar.google.com/citations?view_op=list_works&hl=en&user=MpG_ZDEAAAAJ,Alumni,0
@@ -36,3 +30,9 @@ yanbo_wang.jpg,Yanbo Wang,PhD @ PKU,wyb2017,stu.xjtu.edu.cn,https://yanxwb.githu
 zijian_cai.jpg,Zijian Cai,MS @ CASIA,2205114706,stu.xjtu.edu.cn,https://github.com/czjdsg,Alumni,0
 sen_ye.png,Sen Ye,PhD @ PKU,ys2003,stu.xjtu.edu.cn,https://github.com/EasonRussell,Alumni,0
 shiqi_lou.jpg,Shiqi Lou,PhD @ CUHK,shiqilou01,gmail.com,https://lousq17.github.io/,Alumni,0
+yichen_wang.jpg,Yichen Wang,"PhD @ UChicago",yichenzw,uchicago.edu,https://yichenzw.com/,Alumni,0
+zinan_zeng.jpg,Zinan Zeng,"MS @ XJTU",2194214554,stu.xjtu.edu.cn,https://github.com/zzqbjt,Alumni,0
+ruijie_he.jpg,Ruijie He,"PhD @ THU",MCPlayer542,stu.xjtu.edu.cn,https://github.com/MCPlayer542,Alumni,0
+zifeng_zhu.jpg,Zifeng Zhu,"PhD @ XJTU",zivenzhu,stu.xjtu.edu.cn,https://github.com/37david,Alumni,0
+yuyang_tian.jpg,Yuyang Tian,"PhD @ USTC",2191414578,stu.xjtu.edu.cn,https://github.com/tian-yuyang,Alumni,0
+sicheng_yang.jpg,Sicheng Yang,"MPhil @ HKUST",yscript,stu.xjtu.edu.cn,https://github.com/script-Yang,Alumni,0
