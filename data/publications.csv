@@ -1,4 +1,8 @@
 year,title,authors,publication,image,link,category,demo,data,software,bibtex,abstract,poster
+2026,Why Knowing Both Hops Is Not Enough: Understanding Two-Hop Generalization in Language Models,"Zili Zhang*, Yilin Wang*, Heng Wang, Herun Wan, Minnan Luo","EMNLP 2026, pages 32415–32438",Recurrent-Style-Training.png,https://aclanthology.org/2026.findings-emnlp.1523.pdf,Interpretability,,,,,,
+2026,CPF: Concept-based Probabilistic Fingerprinting for Copyright Protection in Multimodal Large Language Models,"Xinghao Wang*, Xiaofan Zheng*, Peng Peng, Minnan Luo",emnlp 2026 fingdings,CPF.png,https://aclanthology.org/2026.findings-emnlp.2476/,Safety,,,,,,
+2026,Deconstructing Memorization and Generalization: Dual-Level Calibration of Membership Inference Attacks for Large Vision-Language Models,"Xiaofan Zheng, Xinghao Wang, Minnan Luo",emnlp 2026 main,DLC-MIA.png,https://aclanthology.org/2026.emnlp-main.2680/,Safety,,,,,,
+2026,Deconstructing Harmful Memes: Fine-Grained Analysis of Subtle Semantics,"Xiaofan Zheng, Xinghao Wang, Yanwei Liao, Minnan Luo",cikm 2026 Oral,MFHSG.jpg,https://dl.acm.org/doi/10.1145/3799682.3841151,Social Network Analysis,,,,,,
 2025,PTCL: Pseudo-Label Temporal Curriculum Learning for Label-Limited Dynamic Graph,"Shengtao Zhang*, Haokai Zhang*, Shiqi Lou, Zicheng Wang, Zinan Zeng, Yilin Wang, Minnan Luo","arXiv preprint arXiv:2504.17641.",PTCL.png,https://arxiv.org/abs/2504.17641,"Graph Neural Networks",,,,"@misc{zhang2025ptclpseudolabeltemporalcurriculum,
       title={PTCL: Pseudo-Label Temporal Curriculum Learning for Label-Limited Dynamic Graph}, 
       author={Shengtao Zhang and Haokai Zhang and Shiqi Lou and Zicheng Wang and Zinan Zeng and Yilin Wang and Minnan Luo},
